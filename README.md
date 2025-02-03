@@ -6,4 +6,4 @@ Recursos:<br>
 - Layout focado na usabilidade.<br>
 - Fácil de personalizar e adaptar para diferentes projetos.<br>
 <br>
-Ideal para quem busca uma solução rápida e eficaz para criação de páginas de apresentação, captura de informações.
+Ideal para quem busca uma solução rápida e eficaz para criação de páginas de apresentação.
